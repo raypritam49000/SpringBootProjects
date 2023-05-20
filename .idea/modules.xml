@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cafe-management-syatem-backend/cafe-management-syatem-backend.iml" filepath="$PROJECT_DIR$/cafe-management-syatem-backend/cafe-management-syatem-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/eclipse-workspace.iml" filepath="$PROJECT_DIR$/.idea/eclipse-workspace.iml" />
+    </modules>
+  </component>
+</project>
